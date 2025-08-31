@@ -38,11 +38,11 @@ Soy estudiante de la escuela técnica, tengo 18 años. Hace 3 años me interesé
 
 ### ⚙️ &nbsp; Git Analytics
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nehemiasvecino&theme=dark&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nemivecino&theme=dark&show_icons=true" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehemiasvecino&theme=dark&layout=compact" width="410" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nemivecino&theme=dark&layout=compact" width="410" />
 </p>
 
 ## Contacto
