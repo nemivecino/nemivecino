@@ -47,9 +47,6 @@ Soy estudiante de la escuela técnica, tengo 18 años. Hace 3 años me interesé
 
 ## Contacto
 <p align="center">
-  <a href="mailto:nehemiasrubenvecino@gmail.com">
-    <img src="https://img.icons8.com/fluency/48/0000FF/gmail.png"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/nemivecino">
     <img src="https://img.icons8.com/fluency/48/0000FF/github.png"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
